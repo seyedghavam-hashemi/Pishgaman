@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+:root {
+  --main-bg-color: rgba(52, 152, 219, 1);
+  --second-bg-color:rgb(255, 255,0);
+  --button-color: rgba(249, 105, 14, 1);
+  --font-color: #ffffff;
+}
+
+/*bg-video-start
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+  z-index: -1;
+
+}*/
+
+
+
+/*bg-viveo*/
+.content-bg {
+  
+  min-height:100vh;
+  min-width: 100%; 
+}*/
+.main-program {
+  /*background-color: var(--main-bg-color);*/
+   
+
+}
+
+  
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media only screen and (max-width: 420px){
+ 
+ 
+}
+
+
+
+@media only screen and (max-width: 400px){
+
+  
+
+
+}
+
+@media only screen and (max-width: 375px){
+ 
+ 
+}
+
+@media only screen and (max-width: 360px){
+
+
+
+
+
+
+}
+
+@media only screen and (max-width: 320px){
+ 
+ 
+}
+
+@media only screen and (max-width: 280px){
+ 
+
+}

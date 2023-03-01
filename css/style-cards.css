@@ -1,0 +1,361 @@
+
+@import url('https://v1.fontapi.ir/css/Vazir');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+}
+
+.p2dr{  
+  height: 40vh;  
+  border:rgba(249, 105, 14, 1) 2px solid;
+  width:100%;
+  padding: 5%;
+  align-items: center;
+
+  
+}
+
+.scene {
+    border-radius: 20px;
+background: rgba(0, 0, 0, 0.2);
+  width: 100%;
+  height: 35vh;
+  margin:  0;
+  display: table;
+  text-align: center;
+  justify-content: center;
+   vertical-align: middle;
+  padding: 5px;
+}
+
+.cardadp1{
+    vertical-align: middle;
+    height: auto;
+      color: #fff;
+    font-size: 1rem;
+     margin: auto;
+    
+    
+}
+
+
+
+
+
+/*
+.imgcard{
+    position: relative;
+    width: 90%;
+  height: 38vh;
+}*/
+
+
+
+
+
+ .cardad1{
+    
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 10px;
+    margin-left: 5px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1.5rem;
+    padding: 3vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+    
+   
+
+    
+}
+
+
+.cardad2{
+  
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 10px;
+    height: auto;
+    border-radius: 30px;
+    font-size:1.5rem;
+    padding: 3vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+   
+    
+
+    
+}
+
+
+
+.address{
+    margin-right: 3px;
+    color: #fff;
+    font-size: 1rem;
+}
+
+
+@media only screen and (max-width: 420px){
+ 
+.cardad1{
+    
+    margin-top: 1px;
+    
+   
+    font-size:1rem;
+    padding: 0vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+    
+   
+
+    
+}
+
+
+.cardad2{
+  
+    
+    margin-top: 1px;
+    
+   
+    font-size:1rem;
+    padding: 0vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+   
+    
+
+    
+}
+
+ .address{
+        margin:0;
+        padding: 0;
+    }
+    
+}
+
+
+
+@media only screen and (max-width: 400px){
+.cardad1{
+    
+    margin-top: 1px;
+    
+   
+    font-size:1rem;
+    padding: 0vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+    
+   
+
+    
+}
+
+
+.cardad2{
+  
+    
+    margin-top: 1px;
+    
+   
+    font-size:1rem;
+    padding: 0vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+   
+    
+
+    
+}
+ .address{
+        margin:0;
+        padding: 0;
+    }
+}
+
+@media only screen and (max-width: 375px){
+.cardad1{
+    
+    margin-top: 1px;
+    
+   
+    font-size:1rem;
+    padding: 0vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+    
+   
+
+    
+}
+
+
+.cardad2{
+  
+    
+    margin-top: 1px;
+    
+   
+    font-size:1rem;
+    padding: 0vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+   
+    
+
+    
+}
+  .address{
+        margin:0;
+        padding: 0;
+    }
+}
+
+@media only screen and (max-width: 360px){
+
+.cardad1{
+    
+    margin-top: 1px;
+    
+   
+    font-size:1rem;
+    padding: 0vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+    
+   
+
+    
+}
+
+
+.cardad2{
+  
+    
+    margin-top: 1px;
+    
+   
+    font-size:1rem;
+    padding: 0vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+   
+    
+
+    
+}
+
+ .address{
+        margin:0;
+        padding: 0;
+    }
+
+}
+
+@media only screen and (max-width: 320px){
+.cardad1{
+    
+    margin-top: 1px;
+    
+   
+    font-size:1rem;
+    padding: 0vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+    
+   
+
+    
+}
+
+
+.cardad2{
+  
+    
+    margin-top: 1px;
+    
+   
+    font-size:1rem;
+    padding: 0vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+   
+    
+
+    
+}
+ .address{
+        margin:0;
+        padding: 0;
+    }
+}
+
+@media only screen and (max-width: 280px){
+.cardad1{
+    
+    margin-top: 1px;
+    
+   
+    font-size:1rem;
+    padding: 0vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+    
+   
+
+    
+}
+
+
+.cardad2{
+  
+    
+    margin-top: 1px;
+    
+   
+    font-size:1rem;
+    padding: 0vh;
+    /*color: #fff;*/
+    /*font-family: sans-serif;*/
+    /*width: 30%;*/
+   
+    
+
+    
+}
+
+    .address{
+        margin:0;
+        padding: 0;
+    }
+    
+    
+}
+
+
+
+
+
+
+
