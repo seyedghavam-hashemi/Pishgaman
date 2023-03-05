@@ -102,6 +102,15 @@ background: rgba(0, 0, 0, 0.2);
 }
 
 
+
+.programmer{
+    float: left;
+    font-size: 1.2rem;
+    color: #fff;
+    margin-left: 5%;
+}
+
+
 @media only screen and (max-width: 420px){
  
 .cardad1{
